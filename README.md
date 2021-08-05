@@ -1,5 +1,7 @@
 # Racial-Slurs
 
+The code and files are in the master branch
+
 The file slurs.txt contains a set of swear words (considering swear words along with a few racial slurs in this case)
 
 The file tweets.txt contain a set of tweets for analysis
